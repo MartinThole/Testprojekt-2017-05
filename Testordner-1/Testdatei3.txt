@@ -1,2 +1,7 @@
 
 Testdatei 3 im Testordner 1
+
+Änderung 1: Mon 17:29 
+
+<< dieses Änderung ist ok und soll auf GitHub gespeichert werden >>
+
