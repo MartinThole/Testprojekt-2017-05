@@ -12,3 +12,7 @@ Testdatei 3 im Testordner 1
 Ã„nderung 2b: Mittwoch 12:45
 Ã„nderung 2b: auch direkt in GitHub - Branch: Master
 
+Änderung 2: Mon 17:30
+
+<< wird dieser Text bei Sync überschrieben  >>
+
