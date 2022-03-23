@@ -1,18 +1,20 @@
 
 Testdatei 3 im Testordner 1
 
-Änderung 1: Mon 17:29 
+Ã„nderung 1: Mon 17:29 
 
-<< dieses Änderung ist ok und soll auf GitHub gespeichert werden >>
+<< dieses Ã„nderung ist ok und soll auf GitHub gespeichert werden >>
 
-Änderung 2a: Mon 17:31
-Änderung 2a - direkt in GitHub
+Ã„nderung 2a: Mon 17:31
+Ã„nderung 2a - direkt in GitHub
 
 
-Änderung 2b: Mittwoch 12:45
-Änderung 2b: auch direkt in GitHub - Branch: Master
+Ã„nderung 2b: Mittwoch 12:45
+Ã„nderung 2b: auch direkt in GitHub - Branch: Master
 
-�nderung 2: Mon 17:30
+Änderung 2: Mon 17:30
 
-<< wird dieser Text bei Sync �berschrieben  >>
+<< wird dieser Text bei Sync überschrieben  >>
 
+
+Änderung 3b: Mittwoch 13:00 --- UPDAE - wichtiger HOTIFX !!!
