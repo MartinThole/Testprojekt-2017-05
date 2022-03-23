@@ -18,3 +18,7 @@ Testdatei 3 im Testordner 1
 
 
 Änderung 3b: Mittwoch 13:00 --- UPDAE - wichtiger HOTIFX !!!
+
+
+Änderung 4a: Mi - 13:25 --- nur lokal = Trash
+
