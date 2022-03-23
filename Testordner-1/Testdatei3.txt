@@ -6,6 +6,9 @@ Testdatei 3 im Testordner 1
 << dieses Änderung ist ok und soll auf GitHub gespeichert werden >>
 
 Änderung 2a: Mon 17:31
-
-
 Änderung 2a - direkt in GitHub
+
+
+Änderung 2b: Mittwoch 12:45
+Änderung 2b: auch direkt in GitHub - Branch: Master
+
